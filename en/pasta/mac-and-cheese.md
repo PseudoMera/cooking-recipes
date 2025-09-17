@@ -1,8 +1,4 @@
-# 🍽 Macaroni and Cheese Recipe (English & Español)
-
-## English Version
-
-# 🧀 Macaroni and Cheese with Ground Beef (4 Servings)
+#  Macaroni and Cheese with Ground Beef (4 Servings)
 
 ## Ingredients
 - 350 g (12 oz) macaroni or other short pasta

@@ -1,6 +1,4 @@
-## Versión en Español
-
-# 🧀 Macarrones con Queso y Carne Picada (4 Raciones)
+# Macarrones con Queso y Carne Picada (4 Raciones)
 
 ## Ingredientes
 - 350 g de macarrones (u otra pasta corta)
