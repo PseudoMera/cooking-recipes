@@ -6,9 +6,9 @@ This serves as a personal vault for dishes that I've made and liked the end resu
 
 ### Desserts
 
-- [Cheesecake](https://github.com/PseudoMera/cooking-recipes/blob/main/en/desserts/cheesecake.md)
-- [Flan with condensed milk](https://github.com/PseudoMera/cooking-recipes/blob/main/en/desserts/flan-condensed-milk.md)
+- [Cheesecake](https://github.com/PseudoMera/cooking-recipes/blob/main/desserts/en/cheesecake.md)
+- [Flan with condensed milk](https://github.com/PseudoMera/cooking-recipes/blob/main/desserts/en/flan-condensed-milk.md)
 
 ### Pasta
 
-- [Mac and Cheese](https://github.com/PseudoMera/cooking-recipes/blob/main/en/pasta/mac-and-cheese.md)
+- [Mac and Cheese](https://github.com/PseudoMera/cooking-recipes/blob/main/pasta/en/mac-and-cheese.md)
